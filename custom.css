@@ -1,0 +1,12 @@
+figcaption {
+  font-size: 50%;
+}
+
+.container {
+  display: grid;
+  grid-auto-flow: column;
+}
+
+.r-stack > * {
+    width: 100%;
+}
