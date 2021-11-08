@@ -4,6 +4,16 @@ Talk slides for Chip Hogg's CppCon 2021 talk (see [abstract]).
 
 ## How to view
 
+You can [view the slides online](https://chogg.name/cppcon-2021-units/).  Use
+the typical controls for a `reveal.js` presentation.  In particular:
+
+- `s` brings up the absurdly detailed speaker notes
+- `f` makes the presentation fullscreen
+- `Esc` gives easy navigation
+- `j`/`k` or arrow keys navigate the slides
+
+### Local checkout option
+
 ```sh
 git clone https://github.com/chiphogg/cppcon-2021-units.git
 cd cppcon-2021-units/
