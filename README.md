@@ -14,6 +14,10 @@ the typical controls for a `reveal.js` presentation.  In particular:
 
 ### Local checkout option
 
+This isn't necessary if you just want to view---the above link should be enough
+for that.  But if it's not working, or if you want to play around with the
+slides, you can follow these steps.
+
 ```sh
 git clone https://github.com/chiphogg/cppcon-2021-units.git
 cd cppcon-2021-units/
